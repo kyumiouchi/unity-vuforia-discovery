@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scene/walkRobot.unity
+- path: Assets/Scene/standRobot.unity
   isLoaded: 1
   isActive: 1
