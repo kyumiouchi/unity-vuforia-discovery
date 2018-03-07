@@ -5,6 +5,27 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scene/standRobot.unity
     guid: 07140e8748d288a4c93d60493485288f
+  - enabled: 0
+    path: Assets/LeanTouch/Examples/CameraMoveZoom3D.unity
+    guid: 4efc2379fae650d43b7a9c114f6e5772
+  - enabled: 0
+    path: Assets/LeanTouch/Examples/FingerHeld.unity
+    guid: dd0cd30911e9118438f7844a5bd4a1b0
+  - enabled: 0
+    path: Assets/LeanTouch/Examples/FingerTap.unity
+    guid: 935b453473865f3458f13d20bc896092
+  - enabled: 0
+    path: Assets/Scene/scaleRobot.unity
+    guid: bfb7ecdf1b13b2d49b69dac57421fea4
+  - enabled: 0
+    path: Assets/LeanTouch/Examples/Transform.unity
+    guid: bcc6d67bd10127441a6feb2e68bfe9e8
+  - enabled: 0
+    path: Assets/LeanTouch/Examples/TransformRelative.unity
+    guid: f4503f8040e549f489cd402bce299069
+  - enabled: 1
+    path: Assets/Scene/moveRobot.unity
+    guid: db3ec281fc9dd4d469728ede1f16c944
